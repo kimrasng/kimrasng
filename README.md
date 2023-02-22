@@ -1,5 +1,5 @@
 ### Hi there 👋
-MY name is kimdohyun
+kimrasng(김레생)
 
 ### GitHub stats
 
