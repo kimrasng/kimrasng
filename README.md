@@ -7,7 +7,8 @@ kimrasng(김레생)
 
 #### BAEK JOON
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimrasng)](https://solved.ac/kimrasng/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimransg)](https://solved.ac/kimransg/)
+(원래는 kimrasng 인대 오타떄문에 닉이...)
 
 #### Top languages
 
