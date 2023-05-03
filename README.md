@@ -12,4 +12,4 @@ kimrasng(김레생)
 
 ### WakaTime
 
-[![wakatime](https://wakatime.com/badge/user/7f8749cf-e96f-4e5b-bc61-7ee09550684f.svg)](https://wakatime.com/@7f8749cf-e96f-4e5b-bc61-7ee09550684f)
+[![kimrasng's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimrasng)]
