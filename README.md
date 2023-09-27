@@ -11,6 +11,5 @@ kimrasng(김레생)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimrasng&layout=compact)](https://github.com/kimrasng)
 
 ### WakaTime
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@7f8749cf-e96f-4e5b-bc61-7ee09550684f/88d0e625-62dd-4a2a-be15-ccfa0c497674.svg"></embed></figure>
 
