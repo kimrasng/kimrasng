@@ -31,15 +31,6 @@
 
 <br />
 
-## 📦 Selected Projects
-- **동아리 웹사이트** — React를 활용해 웹 개발 동아리 **QWERTY**의 공식 웹사이트를 제작했습니다.  
-  · [Repo](https://github.com/sunrin-qwerty/qwerty-web) · [Demo](https://sunrint-qwerty.kr)
-
-- **음악 스트리밍 플랫폼** — Express.js, MySQL, React를 기반으로 한 **음악 스트리밍 웹 서비스**를 개발했습니다.  
-  · [Repo](https://github.com/kimrasng/music_web) · [Demo](https://music.kimrasng.kr/)
-
-<br />
-
 ## 📫 Contact
 - Email: [me@kimrasng.kr](mailto:me@kimrasng.kr)
 - LinkedIn: [Dohyun Kim](https://www.linkedin.com/in/kim-dohyun-5b1385384/)
