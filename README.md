@@ -1,12 +1,15 @@
 # 👋 Welcome
 
-안녕하세요 **안드로이드 앱 개발 과 서버 개발을 하는** 김도현 입니다.
+안녕하세요, 개발자 김도현입니다.
+
+화면부터 서버와 운영까지, 서비스가 동작하는 전체 흐름에 관심이 있습니다.
+단순히 동작하는 코드를 넘어, 문제의 원인과 해결 방법을 이해하고 설명할 수 있는 개발자를 지향합니다.
 
 <br />
 
 ## 🎓 Education
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/SunrinInternetHighSchool.png" alt="선린인터넷고등학교 로고" width="24" height="24" align="middle" /> **선린인터넷고등학교 (Sunrin Internet High School)**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/SunrinInternetHighSchool.png" alt="선린인터넷고등학교 로고" width="24" height="24" align="top" /> **선린인터넷고등학교 (Sunrin Internet High School)**
   - 2024.03 입학 · 2027.02 졸업 예정
 
 ## 🏫 Activities
@@ -16,12 +19,12 @@
 
 ## 🏆 Competitions
 
-| 날짜 | 대회 | 주관 | 성과 |
+| 날짜 | 대회 | 주관 | 결과 |
 | --- | --- | --- | --- |
-| 2024.11 | 디지털콘테스트 | 선린인터넷 고등학교 | 본선 진출 |
-| 2026.04 | 서울특별시 기능경기대회 (모바일 앱 개발) | 산업 인력공단 | 3위 |
-| 2026.08 | 제61회 전국기능경기대회 (모바일 앱 개발) | 산업 인력공단 | 참가 |
-| 2026.10.26 | 신입인데 만렙입니다 (MCP 해커톤) | vooy | 본선 참가 |
+| 2024.11 | 디지털콘테스트 | 선린인터넷고등학교 | 본선 진출 |
+| 2026.04 | 서울특별시 기능경기대회 (모바일 앱 개발 부문) | 산업인력공단 | 3위 입상 |
+| 2026.08 | 제61회 전국기능경기대회 (모바일 앱 개발 부문) | 산업인력공단 | 참가 |
+| 2026.10 | 신입인데 만렙입니다 (MCP 해커톤) | vooy | 본선 참가 |
 
 <br />
 
