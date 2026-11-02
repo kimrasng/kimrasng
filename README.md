@@ -21,10 +21,9 @@
 
 | 날짜 | 대회 | 주관 | 결과 |
 | --- | --- | --- | --- |
-| 2024.11 | 디지털콘테스트 | 선린인터넷고등학교 | 본선 진출 |
+| 2024.11 | 디지털콘테스트 | 선린인터넷고등학교 | 본선 진출|
 | 2026.04 | 서울특별시 기능경기대회 (모바일 앱 개발 부문) | 산업인력공단 | 3위 입상 |
 | 2026.08 | 제61회 전국기능경기대회 (모바일 앱 개발 부문) | 산업인력공단 | 참가 |
-| 2026.10 | 신입인데 만렙입니다 (MCP 해커톤) | vooy | 본선 참가 |
 
 <br />
 
@@ -49,13 +48,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0B5FFF?style=for-the-badge)
 
-### 🧰 ETC
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <br />
 
 ## 📫 Contact
 - Email: [me@kimrasng.kr](mailto:me@kimrasng.kr)
-- LinkedIn: [Dohyun Kim](https://www.linkedin.com/in/kim-dohyun-5b1385384/)
+- LinkedIn: [Dohyun Kim](https://www.linkedin.com/in/dohyun1223/)
